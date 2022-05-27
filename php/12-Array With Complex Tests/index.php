@@ -1,7 +1,10 @@
 <?php
     echo '<pre>';
         print_r([
-            "A" => "Ahmed",
-            "B" => "Basem"
+            0=>"Sameh",
+            "A"=>"Ahmed",
+            "B"=>"Basem",
+            "Mahmoud",
+            'Names' => ['salawe', 'mahmumd']
         ]);
     echo '</pre>';
